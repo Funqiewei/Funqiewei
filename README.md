@@ -3,7 +3,6 @@
 ### Hi there 👋
 ### Hi there, I'm Chovy 👋
 
-[![Website](https://img.shields.io/website?label=TREMBLINGBOY.CN&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
 
 ## I'm a Student!
 
@@ -45,7 +44,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...][website]
+➡️ [more blog posts...]
 
 ---
 
