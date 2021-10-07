@@ -1,5 +1,5 @@
 
-### Hi there, I'm Chovy 👋
+### Hi there, I'm Chovy切伟丨ᐕ)⁾⁾ 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Funqiewei)](https://github.com/anuraghazra/github-readme-stats)
 ## I'm a Student!
 
