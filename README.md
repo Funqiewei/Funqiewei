@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Funqiewei)](https://github.com/anuraghazra/github-readme-stats)
 ## I'm a Student!
 
-- 🔭 I’m currently studying at ZSTU!
+- 🔭 I’m currently at studying!
 - 🌱 I’m currently learning everything around JavaScript 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: keep alive.
